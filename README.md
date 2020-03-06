@@ -11,7 +11,7 @@ ts
 
 wechat channel
 
-<img src="https://github.com/fanfq/ESDDBlockGaming/blob/master/my_wechat_channel_qrcode.jpg" height="80">
+<img src="https://github.com/fanfq/ESDDBlockGaming/blob/master/my_wechat_channel_qrcode.jpg" height="120">
 
 
 [facebook](https://www.facebook.com/fangqing.fan.7)
