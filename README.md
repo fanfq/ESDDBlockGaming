@@ -9,7 +9,8 @@ ts
 
 ### more details follow my SNS
 
-wechat channel 
+wechat channel
+
 <img src="https://github.com/fanfq/ESDDBlockGaming/blob/master/my_wechat_channel_qrcode.jpg" height="80">
 
 
